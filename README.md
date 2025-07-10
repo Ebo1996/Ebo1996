@@ -6,7 +6,12 @@
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding animation">
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ebo1996&label=Profile%20views&color=0e75b6&style=flat" alt="ebo1996" /> 
+  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/twitter/follow/yourtwitter?logo=twitter&style=for-the-badge" alt="twitter" /></a>
 </p>
 
 ## 🔥 My Tech Stack
@@ -17,6 +22,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -29,6 +35,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 ### 🗃️ Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -56,6 +64,11 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ebo1996&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
+## 🌱 Currently Learning
+- Advanced TypeScript patterns
+- Microservices architecture
+- GraphQL implementations
+- PHP frameworks (Laravel, Symfony)
 
 ## 💡 Projects I'm Proud Of
 - [Project 1](https://github.com/ebo1996/project1) - A brief description
@@ -64,7 +77,8 @@
 
 ## 📫 How to Reach Me
 - 📧 Email: [ebisaberhanu1996@gmail.com](mailto:ebisaberhanu1996@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ebisa-berhanu-055856373/)
+- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- 🐦 Twitter: [@YourTwitter](https://twitter.com/yourtwitter)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
