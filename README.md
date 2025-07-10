@@ -66,9 +66,7 @@
 
 ## 🌱 Currently Learning
 - Advanced TypeScript patterns
-- Microservices architecture
-- GraphQL implementations
-- PHP frameworks (Laravel, Symfony)
+- PHP frameworks (Laravel)
 
 
 
