@@ -11,7 +11,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ebo1996&label=Profile%20views&color=0e75b6&style=flat" alt="ebo1996" /> 
- 
 </p>
 
 ## 🔥 My Tech Stack
@@ -68,12 +67,9 @@
 - Advanced TypeScript patterns
 - PHP frameworks (Laravel)
 
-
-
 ## 📫 How to Reach Me
 - 📧 Email: [ebisaberhanu1996@gmail.com](mailto:ebisaberhanu1996@gmail.com)
-- 💼 LinkedIn:([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ebisa-berhanu-055856373/))
-
+- 💼 LinkedIn: [Ebisa Berhanu](https://www.linkedin.com/in/ebisa-berhanu-055856373/)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
