@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Ebisa Berhanu</h1>
-<h3 align="center">Full Stack Developer | Problem Solver | Tech Enthusiast</h3>
+<h3 align="center">Backend Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Building+scalable+web+applications;Clean+code+advocate;Continuous+learner" alt="Typing SVG" /></a>
