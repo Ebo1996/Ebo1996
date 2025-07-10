@@ -72,7 +72,7 @@
 
 ## 📫 How to Reach Me
 - 📧 Email: [ebisaberhanu1996@gmail.com](mailto:ebisaberhanu1996@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ebisa-berhanu-055856373/))
+- 💼 LinkedIn:([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ebisa-berhanu-055856373/))
 
 
 <p align="center">
