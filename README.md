@@ -57,10 +57,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ebo1996&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
-## 🌱 Currently Learning
-- Advanced TypeScript patterns
-- Microservices architecture
-- GraphQL implementations
 
 ## 💡 Projects I'm Proud Of
 - [Project 1](https://github.com/ebo1996/project1) - A brief description
@@ -69,8 +65,7 @@
 
 ## 📫 How to Reach Me
 - 📧 Email: [ebisaberhanu1996@gmail.com](mailto:ebisaberhanu1996@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@YourTwitter](https://twitter.com/yourtwitter)
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/ebisa-berhanu-055856373/)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
