@@ -70,15 +70,12 @@
 - GraphQL implementations
 - PHP frameworks (Laravel, Symfony)
 
-## 💡 Projects I'm Proud Of
-- [Project 1](https://github.com/ebo1996/project1) - A brief description
-- [Project 2](https://github.com/ebo1996/project2) - A brief description
-- [Project 3](https://github.com/ebo1996/project3) - A brief description
+
 
 ## 📫 How to Reach Me
 - 📧 Email: [ebisaberhanu1996@gmail.com](mailto:ebisaberhanu1996@gmail.com)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- 🐦 Twitter: [@YourTwitter](https://twitter.com/yourtwitter)
+- 💼 LinkedIn: [Your LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ebisa-berhanu-055856373/))
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
