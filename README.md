@@ -5,6 +5,10 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=435&lines=Building+scalable+web+applications;Clean+code+advocate;Continuous+learner" alt="Typing SVG" /></a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Software Engineering">
+</p>
+
 ## 🚀 My Tech Stack
 
 ### 💻 MERN Stack
